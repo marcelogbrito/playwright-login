@@ -1,3 +1,3 @@
-# playwrite-login
+# playwright-login
 
 webscraping usando a biblioteca playwright similar ao selenium
